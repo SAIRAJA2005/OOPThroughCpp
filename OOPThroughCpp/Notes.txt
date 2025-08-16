@@ -1,0 +1,24 @@
+Conventional programming (also called procedural programming)
+
+Disadvantages:
+1. Lack of Reusability
+2. Poor Scalability
+3. Difficulty in Debugging and Maintenance
+4. Harder to Model Real-World Problems
+5. Less Secure Data Handling
+6. Not Suitable for Very Large Systems
+7. Limited Abstraction
+8. Sequential Execution
+9. Global State Issues
+10. Less Flexibility in Code Organization
+11. Doesnt support Encapsulation, Abstraction, and Inheritance
+
+
+OOP Through CPP:
+
+1. BasicsOfOOP.CPP
+2. Encapsulation.CPP
+3. Abstraction.CPP
+4. ScopeOperator.CPP
+5. Inheritance.CPP
+6. Polymorphism.CPP
